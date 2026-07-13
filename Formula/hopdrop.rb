@@ -2,8 +2,8 @@ class Hopdrop < Formula
   desc "Send files from your Mac to your Android phone over WiFi, one command"
   homepage "https://github.com/radenmahar/hopdrop"
   url "https://github.com/radenmahar/hopdrop.git",
-      tag:      "v0.2.0",
-      revision: "b0ba1d4c9a65a73f39686a2f17bf455a96d8c00f"
+      tag:      "v0.2.1",
+      revision: "5ade7ed6e6b3b61115578cd0ff481b191ee9e7a0"
   license "MIT"
 
   depends_on "node"
